@@ -20,8 +20,6 @@ function init(event) {
     }
     formWrapper.classList.toggle('active');
   })
-
-
 }
 
 window.addEventListener('DOMContentLoaded', init);
